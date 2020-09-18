@@ -1,0 +1,28 @@
+##
+## GEMMA Version = 0.94
+##
+## Command Line Input = -bfile /panicle/ssapkot/StarchProtein/data/SAP_GWAS -d /panicle/ssapkot/StarchProtein/data/SAP_EigenValues.txt -u /panicle/ssapkot/StarchProtein/data/SAP_EigenVectors.txt -miss 0.3 -c /panicle/ssapkot/StarchProtein/data/SAP_PopStr_Admixture.txt -lmm 4 -n 2 -o /SAP_GWAS_QK_Starch 
+##
+## Summary Statistics:
+## number of total individuals = 389
+## number of analyzed individuals = 389
+## number of covariates = 6
+## number of phenotypes = 1
+## number of total SNPs = 202692
+## number of analyzed SNPs = 140763
+## REMLE log-likelihood in the null model = -660.336
+## MLE log-likelihood in the null model = -670.373
+## pve estimate in the null model = 0.783474
+## se(pve) in the null model = 0.0689237
+## vg estimate in the null model = 1.68286
+## ve estimate in the null model = 0.465086
+## beta estimate in the null model =   -15701.9  15700.5  15702.3  15701.1  15702.4  15702.2
+## se(beta) =   149559  149559  149559  149559  149559  149559
+##
+## Computation Time:
+## total computation time = 39.5413 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0 min 
+##      time on calculating UtX = 0.280667 min 
+##      time on optimization = 39.0798 min 
+##

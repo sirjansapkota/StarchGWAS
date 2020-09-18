@@ -1,0 +1,6 @@
+SNP_GROUP	CHR	SNP_POS	NUM_SNPs	GENE_ID	GENE_Start	GENE_End	GeneINFO
+S1_4067535 	1	4067535	1	Sobic.001G054500	4066711	4067588	Sobic.001G054500.2.p,LOC_Os03g58500.1,expressed,protein
+S8_51720767	8	51720767	1	Sobic.008G111500	51714673	51715254	Sobic.008G111500.1.p,PF04535,PTHR11615,PTHR11615:SF145,AT2G35760.1,Uncharacterised,protein,family,(UPF0497),LOC_Os12g32970.1,membrane,associated,DUF588,domain,containing,protein,,putative,,expressed
+S8_51720767	8	51720767	1	Sobic.008G111600	51719209	51726960	Sobic.008G111600.1.p,PF02518,PF00183,PTHR11528,PTHR11528:SF41,K09487,GO:0051082,GO:0006950,GO:0006457,GO:0005524,AT3G07770.1,AtHsp90-6,AtHsp90.6,Hsp89.1,HEAT,SHOCK,PROTEIN,89.1,LOC_Os12g32986.1,heat,shock,protein,,putative,,expressed
+S8_59121722	8	59121722	1	Sobic.008G158332	59121190	59129810	Sobic.008G158332.1.p,PF14547,PTHR31731,AT1G62510.1,Bifunctional,inhibitor/lipid-transfer,protein/seed,storage,2S,albumin,superfamily,protein,LOC_Os03g01320.1,LTPL116,-,Protease,inhibitor/seed,storage/LTP,family,protein,precursor,,expressed
+S8_59121722	8	59121722	1	Sobic.008G158400	59136193	59137453	Sobic.008G158400.1.p,PF00234,PTHR31731,K02883,AT1G62510.1,Bifunctional,inhibitor/lipid-transfer,protein/seed,storage,2S,albumin,superfamily,protein,LOC_Os03g01320.1,LTPL116,-,Protease,inhibitor/seed,storage/LTP,family,protein,precursor,,expressed

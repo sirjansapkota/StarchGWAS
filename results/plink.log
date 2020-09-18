@@ -1,0 +1,35 @@
+PLINK v1.90b6.10 64-bit (17 Jun 2019)
+Options in effect:
+  --allow-no-sex
+  --epistasis
+  --file data/SAP_GWAS
+  --pheno data/SAP_Starch2.tsv
+  --set GenesInteractors_sets.txt
+  --set-test
+
+Hostname: login001.palmetto.clemson.edu
+Working directory: /panicle/ssapkot/StarchProtein
+Start time: Thu Aug 20 16:09:10 2020
+
+Note: --set-test flag deprecated.  Use e.g. "--assoc perm set-test".
+Random number seed: 1597954150
+257594 MB RAM detected; reserving 128797 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (202692 variants, 389 people).
+--file: plink-temporary.bed + plink-temporary.bim + plink-temporary.fam
+written.
+202692 variants loaded from .bim file.
+389 people (0 males, 0 females, 389 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink.nosex .
+389 phenotype values present after --pheno.
+Using up to 47 threads (change this with --threads).
+Before main variant filters, 389 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.766394.
+--set: 2 sets defined.
+202692 variants and 389 people pass filters and QC.
+Phenotype data is quantitative.
+QT --epistasis to plink.epi.qt ... done.
+2542 valid tests performed, summary written to plink.epi.qt.summary .
+
+End time: Thu Aug 20 16:09:12 2020
